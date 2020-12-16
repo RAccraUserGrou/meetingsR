@@ -3,6 +3,10 @@ knit: "bookdown::preview_chapter"
 ---
 
 ## Middle East/ Africa
+### Ghana r get_btn()`
+
+*Ghanaian:[Accra R users](https://github.com/orgs/Accra-R-User-Group/people)
+ 
 
 ### Algeria `r get_btn()`
 
